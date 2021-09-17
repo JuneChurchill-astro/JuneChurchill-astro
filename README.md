@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JuneChurchill-astro
-- 👀 I’m interested in spectropolarimetry, supernovae, and general astronomy and astrophysics!
-- 🌱 I’m currently learning scientific programming in Python, Fortran 95, and more!
-- 💞️ I’m looking to collaborate on astro libraries 
+- 👀 I’m interested in spectropolarimetry, supernovae, and general astrophysics
+- 🌱 I’m currently learning scientific programming in Python, Fortran 95, and more
 - 📫 How to reach me: email me at JuneEChurchill@gmail.com
 
 <!---
